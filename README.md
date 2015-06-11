@@ -1,10 +1,12 @@
 # Anki Server
 
-[![Build Status](https://travis-ci.org/tomzx/anki-server.svg)](https://travis-ci.org/tomzx/anki-server)
-[![Total Downloads](https://poser.pugx.org/tomzx/anki-server/downloads.svg)](https://packagist.org/packages/tomzx/anki-server)
+[![License](https://poser.pugx.org/tomzx/anki-server/license.svg)](https://packagist.org/packages/tomzx/anki-server)
 [![Latest Stable Version](https://poser.pugx.org/tomzx/anki-server/v/stable.svg)](https://packagist.org/packages/tomzx/anki-server)
 [![Latest Unstable Version](https://poser.pugx.org/tomzx/anki-server/v/unstable.svg)](https://packagist.org/packages/tomzx/anki-server)
-[![License](https://poser.pugx.org/tomzx/anki-server/license.svg)](https://packagist.org/packages/tomzx/anki-server)
+[![Build Status](https://img.shields.io/travis/tomzx/anki-server.svg)](https://travis-ci.org/tomzx/anki-server)
+[![Code Quality](https://img.shields.io/scrutinizer/g/tomzx/anki-server.svg)](https://scrutinizer-ci.com/g/tomzx/anki-server/code-structure)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/tomzx/anki-server.svg)](https://scrutinizer-ci.com/g/tomzx/anki-server)
+[![Total Downloads](https://img.shields.io/packagist/dt/tomzx/anki-server.svg)](https://packagist.org/packages/tomzx/anki-server)
 
 Anki Server is an alternative to [AnkiWeb](https://ankiweb.net/).
 
@@ -41,4 +43,4 @@ This code was developed/tested with `Anki Desktop 2.0.31` and a custom build of 
 
 ## License
 
-The code is licensed under the [MIT license](http://choosealicense.com/licenses/mit/). See LICENSE.
+The code is licensed under the [MIT license](http://choosealicense.com/licenses/mit/). See [LICENSE](LICENSE).

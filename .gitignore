@@ -1,6 +1,6 @@
-/bootstrap/compiled.php
-/_ide_helper.php
-/vendor
 composer.phar
 .env.*.php
 .env.php
+_ide_helper.php
+bootstrap/compiled.php
+vendor
