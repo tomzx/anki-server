@@ -1,5 +1,5 @@
 {
-	"name": "tomzx/AnkiServer",
+	"name": "tomzx/anki-server",
 	"description": "An Anki (http://ankisrs.net/) AnkiWeb replacement in PHP",
 	"keywords": ["anki", "server", "ankiweb"],
 	"license": "MIT",
